@@ -1,0 +1,3 @@
+2025-10-17 17:55:44,562 - my_logger - DEBUG - Debugging info
+2025-10-17 17:55:44,563 - my_logger - INFO - Informational message
+2025-10-17 17:55:44,563 - my_logger - WARNING - Warning message
